@@ -1,0 +1,7 @@
+name: FarmingMaster
+version: '${project.version}'
+main: mclove32.farmingmaster.FarmingMaster
+api-version: '1.20'
+
+depend:
+  - MythicMobs
